@@ -1,0 +1,21 @@
+2006-08-14 OKAZAKI Atsuya  <geodenx@gmail.com>
+
+	* Add timeout function
+
+2006-04-10 OKAZAKI Atsuya  <geodenx@gmail.com>
+
+	* Patch for running under FreeBSD
+
+2006-03-08 OKAZAKI Atsuya  <geodenx@gmail.com>
+
+	* Change serial port configuration and the way to initialize the connection.
+
+2006-02-24 OKAZAKI Atsuya  <geodenx@gmail.com>
+
+	* Rename from ARMWSD to ARMLSD.
+	* Support erase and verify command (Now, verify command response ACK with invalid download data).
+	* A command line option -p can select a serial port device.
+
+2006-02-19 OKAZAKI Atsuya  <geodenx@gmail.com>
+
+	* Initial release
