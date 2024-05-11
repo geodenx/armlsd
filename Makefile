@@ -5,4 +5,3 @@ armlsd: armlsd.c
 
 clean:
 	-rm armlsd
-	-rm *~
