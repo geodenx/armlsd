@@ -4,8 +4,9 @@
 Analog Devices からは Windows 版シリアルダウンローダ ARMWSD [analog.com] が提供されいるが，Linux はサポートされていないので作成した．
 
 ARM Linux Serial Downloader is similar to ARMWSD.exe (ARM Windows Serial Downloader) provided by Analog Devices.
-It can execute write, erase, verify and run commands of ADuC702x Serial Download Protocol.
-It is tested only with ADuC2076 attached to "DesignWave 2006 March" published by CQ publishing.
+It can execute write, erase, verify and run commands in ADuC702x Serial Download Protocol.
+
+It is tested with ADuC2076 attached to "DesignWave 2006 March" published by CQ publishing.
 
 ## Usage
 ```
